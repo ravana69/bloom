@@ -1,0 +1,16 @@
+body {
+  display: flex;
+  height: 100vh;
+  background-color: #123;
+}
+
+svg {
+  margin: auto;
+  width: 100%;
+  max-width: 100vh;
+  height: auto;
+}
+
+circle {
+  fill: none;
+}
